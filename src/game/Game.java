@@ -76,9 +76,10 @@ public class Game {
         this.player2 = p2;
         this.turn = 0;
         this.activePlayer = new Random().nextInt(2) + 1;
+        System.out.println("starts: " + activePlayer);
         this.initBoard();
         this.winner = 0;
-        //this.play();
+        this.play();
     }
 
     public void play() {

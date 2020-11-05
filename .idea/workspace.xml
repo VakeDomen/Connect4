@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Connect4:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8e9a84f-f6b6-4244-9584-3599a66ba3e8" name="Default Changelist" comment="" />
+    <list default="true" id="c8e9a84f-f6b6-4244-9584-3599a66ba3e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Connect4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4JFrame$AlphaBeta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4JFrame$MinimaxPlayer$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4JFrame$MinimaxPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4JFrame$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4JFrame$RandomPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Connect4JFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/META-INF/Connect4.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/game/Evaluator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/game/Evaluator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/gfx/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/gfx/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/gfx/SideMenu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/gfx/SideMenu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/gfx/SideMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/gfx/SideMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/AlphaBetaAI$MinmaxResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/AlphaBetaAI$MinmaxResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/AlphaBetaAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/AlphaBetaAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/HumanPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/MiniMaxAI$MinmaxResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/MiniMaxAI$MinmaxResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/MiniMaxAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/MiniMaxAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Connect4/players/RandomAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Connect4/players/RandomAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/SideMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/SideMenu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,25 +50,38 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WA9VEWY0hsN1V7IigbkzvoFA3W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2PBombermanProject/p2p-bomberman-clone" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Connect4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Connect4" />
+      <module name="Connect4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Connect4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,21 +98,11 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Connect4" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -78,81 +117,60 @@
       <workItem from="1578582087038" duration="584000" />
       <workItem from="1578753321287" duration="3351000" />
       <workItem from="1579259399317" duration="48374000" />
+      <workItem from="1579515251312" duration="1678000" />
+      <workItem from="1579706001083" duration="32000" />
+      <workItem from="1579725363359" duration="1218000" />
+      <workItem from="1581093485654" duration="71000" />
+      <workItem from="1598475827726" duration="1785000" />
+      <workItem from="1598519369155" duration="412000" />
+      <workItem from="1598547565913" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579388080723">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure" timestamp="1598475848678">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579388080723" />
-    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578755908554">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1598475848678" />
+    <state x="451" y="210" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598519503844">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578755908554" />
-    <state x="571" y="210" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1578581955472">
+    <state x="451" y="210" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598519503844" />
+    <state x="725" y="357" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598519549698">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="571" y="210" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578581955472" />
-    <state x="766" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578582253238">
+    <state x="725" y="357" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598519549698" />
+    <state x="3623" y="477" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598551158632">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3623" y="477" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1598551158632" />
+    <state width="2514" height="346" key="GridCell.Tab.0.bottom" timestamp="1598551161981">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="881" height="242" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598519780824" />
+    <state width="2514" height="346" key="GridCell.Tab.0.bottom/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1598551161981" />
+    <state width="2514" height="346" key="GridCell.Tab.0.center" timestamp="1598551161980">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="881" height="242" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598519780824" />
+    <state width="2514" height="346" key="GridCell.Tab.0.center/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1598551161980" />
+    <state width="2514" height="346" key="GridCell.Tab.0.left" timestamp="1598551161980">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="881" height="242" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598519780823" />
+    <state width="2514" height="346" key="GridCell.Tab.0.left/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1598551161980" />
+    <state width="2514" height="346" key="GridCell.Tab.0.right" timestamp="1598551161980">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="881" height="242" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598519780824" />
+    <state width="2514" height="346" key="GridCell.Tab.0.right/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1598551161980" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1598519557060">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="766" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578582253238" />
-    <state width="881" height="344" key="GridCell.Tab.0.bottom" timestamp="1579430687234">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687234" />
-    <state width="881" height="344" key="GridCell.Tab.0.center" timestamp="1579430687233">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687233" />
-    <state width="881" height="344" key="GridCell.Tab.0.left" timestamp="1579430687232">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687232" />
-    <state width="881" height="344" key="GridCell.Tab.0.right" timestamp="1579430687234">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687234" />
-    <state width="881" height="344" key="GridCell.Tab.1.bottom" timestamp="1579430687237">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687237" />
-    <state width="881" height="344" key="GridCell.Tab.1.center" timestamp="1579430687235">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687235" />
-    <state width="881" height="344" key="GridCell.Tab.1.left" timestamp="1579430687235">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687235" />
-    <state width="881" height="344" key="GridCell.Tab.1.right" timestamp="1579430687236">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="881" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579430687236" />
-    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1579359019806">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579359019806" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579259406606">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579259406606" />
-    <state x="638" y="149" width="710" height="807" key="find.popup" timestamp="1579268947877">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="638" y="149" width="710" height="807" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579268947877" />
-    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1579430678672">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579430678672" />
-    <state x="656" y="257" key="search.everywhere.popup" timestamp="1579276711118">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="656" y="257" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579276711118" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1598519557060" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Connect4$Main.ic" NAME="Main Coverage Results" MODIFIED="1579267420698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

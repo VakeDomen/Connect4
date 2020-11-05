@@ -1,6 +1,5 @@
 package gfx;
 
-import com.sun.tools.javac.Main;
 import game.Game;
 import players.*;
 

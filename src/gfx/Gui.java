@@ -32,7 +32,7 @@ public class Gui  extends JPanel {
         f.setLayout(new BorderLayout());
 
         f.getContentPane().add(this, BorderLayout.CENTER);
-        f.getContentPane().add(menu, BorderLayout.LINE_START);
+//        f.getContentPane().add(menu, BorderLayout.LINE_START);
         f.setVisible(true);
 
 
@@ -57,7 +57,7 @@ public class Gui  extends JPanel {
         super.paintComponent(g);
         this.theArray = game.getBoard();
         paintBoard(g);
-        menu.refresh();
+//        menu.refresh();
         try {
             Thread.sleep(50);
         } catch (InterruptedException e) {
